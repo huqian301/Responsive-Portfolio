@@ -10,16 +10,37 @@ footer a.text-light:hover {
   color: #fed136 !important;
   text-decoration: none;
 }
-/* footer .cizgi {
+footer .cizgi {
   border-right: 1px solid #535e67;
 }
 @media (max-width: 992px) {
   footer .cizgi {
     border-right: none;
   }
-} */
+}
+
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 1.5rem;            /* Footer height */
+}
+
 
 
 .jumbotron {
     padding: 0rem 0rem;
+  }
+
+
+  .header {
+      color:grey;
+      font-size: 27px;
+      padding: 10px;
+  }
+
+  .bigicon {
+      font-size: 35px;
+      color: darkgrey;
   }
