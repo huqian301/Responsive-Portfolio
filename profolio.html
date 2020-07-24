@@ -1,68 +1,70 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap CSS stylesheet -->
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <!-- Bootstrap /fontawesome -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Portfolio Page</title>
+    <!-- link to style.css -->
     <link rel="stylesheet" href="style.css">
 
-</head>
 
-<body>
-    <!-- Navigation bar -->
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
-            <div class="container">
-                <a class="navbar-brand" href="#"> Qian Hu</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-                    aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="portfolio.html">Portfolio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+        <nav class="navbar navbar-light bg-light">
+            <span class="navbar-brand active text-light" style="font-size:34px;"> Qian Hu </span>
+            <ul class="nav">
+                <li class="nav-item border-right">
+                    <a class="nav-link" href="index.html">About Me</a>
+                </li>
+                <li class="nav-item border-right">
+                    <a class="nav-link" href="profolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
         </nav>
     </header>
 
+    <section class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <form class="form-horizontal" method="post">
+                    <fieldset>
+                        <legend class="header border-bottom">Portfolio</legend>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </section>
 
-    <!--- Footer --->
+
+
+
     <footer>
-        <div class="jumbotron jumbotron-fluid bg-secondary p-auto mt-5 mb-0">
-            <div class="container ">
+        <div class="bg-secondary p-1">
+            <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 cizgi">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                         <div class="card bg-secondary border-0">
-                            <div class="card-body text-light text-center">
-                                <br>
-                                <p class="d-inline">Qian Hu © 2020
-                                </p>
+                            <div class="card-body text-light text-center"><br>
+                                <p class="d-inline">Qian Hu © 2020</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 cizgi">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
                         <div class="card bg-secondary border-0">
                             <div class="card-body text-center">
                                 <h5 class="card-title text-white display-4" style="font-size:20px">Contact</h5>
-                                <a class="text-light d-block" style="margin-left: -20px" href="#"><i class="fa fa-phone mr-1"></i>+1(415)9098889</a>
-                                <a class="text-light d-block" href="#"><i class="fa fa-envelope mr-1"></i>huqian0301@gmail.com</a>
+                                <p class="text-light d-block" style="margin-left: -20px"><i class="fa fa-phone mr-1"></i>+1(415)9098889</p>
+                                <p class="text-light d-block"><i class="fa fa-envelope mr-1"></i>huqian0301@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -71,15 +73,10 @@
                         <div class="card bg-secondary border-0">
                             <div class="card-body text-center">
                                 <h5 class="card-title text-white display-4" style="font-size:20px">Social Media</h5>
-
                                 <a class="text-light" href="https://www.facebook.com/attraversiamooh/"><i class="fa fa-facebook-square fa-fw fa-lg"></i></a>
-
                                 <a class="text-light" href="https://www.instagram.com/huqqqian/"><i class="fa fa-instagram fa-fw fa-lg"></i></a>
-
                                 <a class="text-light" href="https://www.linkedin.com/in/qian-hu-33aa91132/"><i class="fa fa-linkedin fa-fw fa-lg"></i></a>
-
                                 <a class="text-light" href="https://github.com/huqian301"><i class="fa fa-github fa-fw fa-lg"></i></a>
-
                             </div>
                         </div>
                     </div>
@@ -87,10 +84,10 @@
             </div>
         </div>
     </footer>
-    <!--# Footer #-->
 
 
-    <!-- Bootstrap JS plugins -->
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
@@ -100,6 +97,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
         integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
         crossorigin="anonymous"></script>
-</body>
+    </body>
 
 </html>
