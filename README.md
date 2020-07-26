@@ -3,6 +3,10 @@
 ## Description: 
 In this homework, I used bootstrap to make my website more funtional and organized.
 When I switch on different devices, the website will change and fit it.
+## Github links
+https://huqian301.github.io/homework-02/index.html
+https://github.com/huqian301/homework-02
+
 
 ## Homework-02 Ouput
 ## iPhone X 
