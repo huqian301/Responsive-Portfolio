@@ -10,7 +10,7 @@ https://github.com/huqian301/homework-02
 
 ## Homework-02 Ouput
 ## iPhone X 
-![Phone-output](./Assets/output-image/Phone%201.png)
+![Phone-output](./Assets/output-image/Phone%201.png =100x)
 ![Phone-output](./Assets/output-image/Phone%202.png)
 ![Phone-output](./Assets/output-image/Phone%203.png)
 ![Phone-output](./Assets/output-image/Phone%204.png)
