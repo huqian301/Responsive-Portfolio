@@ -10,40 +10,30 @@ https://github.com/huqian301/homework-02
 
 ## Homework-02 Ouput
 ## iPhone X 
-![Phone-output](./Assets/output-image/Phone%201.png =100x)
-![Phone-output](./Assets/output-image/Phone%202.png)
-![Phone-output](./Assets/output-image/Phone%203.png)
-![Phone-output](./Assets/output-image/Phone%204.png)
-![Phone-output](./Assets/output-image/Phone%205.png)
-![Phone-output](./Assets/output-image/Phone%206.png)
+<img src="./Assets/output-image/Phone%201.png" width="250">
+<img src="./Assets/output-image/Phone%202.png" width="250">
+<img src="./Assets/output-image/Phone%203.png" width="250">
+<img src="./Assets/output-image/Phone%204.png" width="250">
+<img src="./Assets/output-image/Phone%205.png" width="250">
+<img src="./Assets/output-image/Phone%206.png" width="250">
 
 ## iPad
 
+<img src="./Assets/output-image/Ipad%201.png" width="550">
+<img src="./Assets/output-image/Ipad%202.png" width="550">
+<img src="./Assets/output-image/Ipad%203.png" width="550">
+<img src="./Assets/output-image/Ipad%204.png" width="550">
+<img src="./Assets/output-image/Ipad%205.png" width="550">
+<img src="./Assets/output-image/Ipad%206.png" width="550">
 
-![Ipad-output](./Assets/output-image/Ipad%201.png)
-![Ipad-output](./Assets/output-image/Ipad%202.png)
-![Ipad-output](./Assets/output-image/Ipad%203.png)
-![Ipad-output](./Assets/output-image/Ipad%204.png)
-![Ipad-output](./Assets/output-image/Ipad%205.png)
-![Ipad-output](./Assets/output-image/Ipad%206.png)
 
 ## PC
-
-![PC-output](./Assets/output-image/PC%201.png)
-![PC-output](./Assets/output-image/PC%202.png)
-![PC-output](./Assets/output-image/PC%203.png)
-![PC-output](./Assets/output-image/PC%204.png)
-![PC-output](./Assets/output-image/PC%205.png)
-![PC-output](./Assets/output-image/PC%206.png)
-
-
-
-
-
-
-
-
-
+<img src="./Assets/output-image/PC%201.png" width="750">
+<img src="./Assets/output-image/PC%202.png" width="750">
+<img src="./Assets/output-image/PC%203.png" width="750">
+<img src="./Assets/output-image/PC%204.png" width="750">
+<img src="./Assets/output-image/PC%205.png" width="750">
+<img src="./Assets/output-image/PC%206.png" width="750">
 
 
 
