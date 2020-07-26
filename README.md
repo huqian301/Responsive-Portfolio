@@ -1,3 +1,50 @@
+## Student name: Qian Hu
+## Instructor: Emmanuel Jucaban
+## Description: 
+In this homework, I used bootstrap to make my website more funtional and organized.
+When I switch on different devices, the website will change and fit it.
+
+## Homework-02 Ouput
+## iPhone X 
+![Phone-output](./Assets/output-image/Phone%201.png)
+![Phone-output](./Assets/output-image/Phone%202.png)
+![Phone-output](./Assets/output-image/Phone%203.png)
+![Phone-output](./Assets/output-image/Phone%204.png)
+![Phone-output](./Assets/output-image/Phone%205.png)
+![Phone-output](./Assets/output-image/Phone%206.png)
+
+## iPad
+
+
+![Ipad-output](./Assets/output-image/Ipad%201.png)
+![Ipad-output](./Assets/output-image/Ipad%202.png)
+![Ipad-output](./Assets/output-image/Ipad%203.png)
+![Ipad-output](./Assets/output-image/Ipad%204.png)
+![Ipad-output](./Assets/output-image/Ipad%205.png)
+![Ipad-output](./Assets/output-image/Ipad%206.png)
+
+## PC
+
+![PC-output](./Assets/output-image/PC%201.png)
+![PC-output](./Assets/output-image/PC%202.png)
+![PC-output](./Assets/output-image/PC%203.png)
+![PC-output](./Assets/output-image/PC%204.png)
+![PC-output](./Assets/output-image/PC%205.png)
+![PC-output](./Assets/output-image/PC%206.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
