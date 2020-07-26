@@ -14,42 +14,65 @@
     <!-- link to style.css -->
     <link rel="stylesheet" href="style.css">
     <title>Portfolio Page</title>
-</head> 
+</head>
+
 <body>
-     <!-- navigation bar -->
-        <nav class="navbar navbar-light bg-light">
-            <span class="navbar-brand active text-light" style="font-size:34px;"> Qian Hu </span>
-            <ul class="nav">
-                <li class="nav-item border-right">
-                    <a class="nav-link" href="index.html">About Me</a>
-                </li>
-                <li class="nav-item border-right">
-                    <a class="nav-link" href="profolio.html">Portfolio</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
-                </li>
-            </ul>
-        </nav>
+    <!-- navigation bar -->
+    <nav class="navbar navbar-light bg-light">
+        <span class="navbar-brand active text-light" style="font-size:34px;"> Qian Hu </span>
+        <ul class="nav">
+            <li class="nav-item border-right">
+                <a class="nav-link" href="index.html">About Me</a>
+            </li>
+            <li class="nav-item border-right">
+                <a class="nav-link" href="profolio.html">Portfolio</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </nav>
     <!-- navigation bar end -->
 
     <!-- Main content -->
-    <main class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <form class="form-horizontal" method="post">
-                    <fieldset>
-                        <legend class="header border-bottom">Portfolio</legend>
-                    </fieldset>
-                </form>
+    <main class="wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <form class="form-horizontal" method="post">
+                        <fieldset>
+                            <legend class="header border-bottom">Portfolio</legend>
+                        </fieldset>
+                    </form>
+                    
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+                            <div class="card" style="width: 18rem;">
+                                <img src="./Assets/img/IMG_2745.JPG" class="card-img-top" alt="Nikko">
+                                <div class="card-body">
+                                    <h5 class="card-title">Nikko,Japan</h5>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="card" style="width: 18rem;">
+                                <img src="./Assets/img/IMG_2523.jpg" class="card-img-top" alt="Senso-ji">
+                                <div class="card-body">
+                                    <h5 class="card-title">Tokyo temple,Japan</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
+        </div>  
     </main>
     <!-- Main content end -->
 
 
-    <!-- footer -->
-    <footer>
+     <!-- footer -->
+     <footer>
         <div class="p-1 mt-5">
             <div class="container">
                 <div class="row">
@@ -88,7 +111,6 @@
     </footer>
     <!-- footer end -->
 
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -100,6 +122,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
         integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
         crossorigin="anonymous"></script>
-    </body>
+</body>
 
 </html>
