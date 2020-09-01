@@ -1,3 +1,11 @@
+.container{
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+.bg-secondary{
+  opacity: 0.5;
+}
+
 a {
   color: gray;
   font-size: 18px;
@@ -33,6 +41,7 @@ main{
 
 body {
   background: url("./Assets/img/bg-image.jpg") no-repeat center center fixed;
+  height: 800px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
