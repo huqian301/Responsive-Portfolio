@@ -4,7 +4,7 @@
 In this homework, I used bootstrap to make my website more funtional and organized.
 When I switch on different devices, the website will change and fit it.
 ## Github links
-https://huqian301.github.io/Responsive-Portfolio/<br>
+https://huqian301.github.io/Responsive-Portfolio/profolio.html<br>
 https://github.com/huqian301/Responsive-Portfolio
 
 
